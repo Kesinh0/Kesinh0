@@ -1,6 +1,7 @@
 - Hi, I’m @Kesinh0
 - I’m interested in ciber security
-- I’m currently learning C
+- I’m currently learning C / Java / Mips Assembly / Lua
 - how to reach me ...
+  - you cant (yet)  
 - Pronouns: He/Him
-- Fun fact: I like cat
+- Fun fact: I like cats
